@@ -1,0 +1,6 @@
+C:\Users\youss_kk115ax\Desktop\Markers\TUIO11_NET-master\bin\Debug\libTUIO.dll
+C:\Users\youss_kk115ax\Desktop\Markers\TUIO11_NET-master\bin\Debug\libTUIO.pdb
+C:\Users\youss_kk115ax\Desktop\Markers\TUIO11_NET-master\obj\Debug\TUIO_LIB.csproj.CoreCompileInputs.cache
+C:\Users\youss_kk115ax\Desktop\Markers\TUIO11_NET-master\obj\Debug\libTUIO.dll
+C:\Users\youss_kk115ax\Desktop\Markers\TUIO11_NET-master\obj\Debug\libTUIO.pdb
+C:\Users\youss_kk115ax\Desktop\Markers\TUIO11_NET-master\obj\Debug\TUIO_LIB.csproj.AssemblyReference.cache
