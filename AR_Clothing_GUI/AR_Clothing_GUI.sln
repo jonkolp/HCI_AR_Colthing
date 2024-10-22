@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_Clothing_GUI", "AR_Clothing_GUI\AR_Clothing_GUI.csproj", "{339086F0-512A-4DDD-91B2-39E91576E620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{339086F0-512A-4DDD-91B2-39E91576E620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339086F0-512A-4DDD-91B2-39E91576E620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339086F0-512A-4DDD-91B2-39E91576E620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339086F0-512A-4DDD-91B2-39E91576E620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2AC5618-65EA-4C15-8C25-9E6E6AD5E0C5}
+	EndGlobalSection
+EndGlobal

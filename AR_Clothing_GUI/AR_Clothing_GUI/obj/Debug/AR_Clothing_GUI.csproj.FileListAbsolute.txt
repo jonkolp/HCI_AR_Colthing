@@ -1,0 +1,10 @@
+C:\Users\youss_kk115ax\source\repos\AR_Clothing_GUI\AR_Clothing_GUI\bin\Debug\AR_Clothing_GUI.exe.config
+C:\Users\youss_kk115ax\source\repos\AR_Clothing_GUI\AR_Clothing_GUI\bin\Debug\AR_Clothing_GUI.exe
+C:\Users\youss_kk115ax\source\repos\AR_Clothing_GUI\AR_Clothing_GUI\bin\Debug\AR_Clothing_GUI.pdb
+C:\Users\youss_kk115ax\source\repos\AR_Clothing_GUI\AR_Clothing_GUI\obj\Debug\AR_Clothing_GUI.csproj.AssemblyReference.cache
+C:\Users\youss_kk115ax\source\repos\AR_Clothing_GUI\AR_Clothing_GUI\obj\Debug\AR_Clothing_GUI.Form1.resources
+C:\Users\youss_kk115ax\source\repos\AR_Clothing_GUI\AR_Clothing_GUI\obj\Debug\AR_Clothing_GUI.Properties.Resources.resources
+C:\Users\youss_kk115ax\source\repos\AR_Clothing_GUI\AR_Clothing_GUI\obj\Debug\AR_Clothing_GUI.csproj.GenerateResource.cache
+C:\Users\youss_kk115ax\source\repos\AR_Clothing_GUI\AR_Clothing_GUI\obj\Debug\AR_Clothing_GUI.csproj.CoreCompileInputs.cache
+C:\Users\youss_kk115ax\source\repos\AR_Clothing_GUI\AR_Clothing_GUI\obj\Debug\AR_Clothing_GUI.exe
+C:\Users\youss_kk115ax\source\repos\AR_Clothing_GUI\AR_Clothing_GUI\obj\Debug\AR_Clothing_GUI.pdb
