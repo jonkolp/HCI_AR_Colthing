@@ -1,0 +1,27 @@
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/bin/Debug/TuioDemo.pdb
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.AssemblyReference.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TUIO_DEMO.csproj.CoreCompileInputs.cache
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.exe
+/Users/moamenibrahem/Downloads/TUIO11_NET-master/obj/Debug/TuioDemo.pdb
+D:\MSA\Fall 2024\HCI\Lab\1\Lab 1  TUIO-20241014\TUIO11_NET-master\TUIO11_NET-master\bin\Debug\TuioDemo.exe.config
+D:\MSA\Fall 2024\HCI\Lab\1\Lab 1  TUIO-20241014\TUIO11_NET-master\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+D:\MSA\Fall 2024\HCI\Lab\1\Lab 1  TUIO-20241014\TUIO11_NET-master\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+D:\MSA\Fall 2024\HCI\Lab\1\Lab 1  TUIO-20241014\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+D:\MSA\Fall 2024\HCI\Lab\1\Lab 1  TUIO-20241014\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+D:\MSA\Fall 2024\HCI\Lab\1\Lab 1  TUIO-20241014\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+D:\MSA\Fall 2024\HCI\Lab\1\Lab 1  TUIO-20241014\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
+D:\MSA\Fall 2024\HCI\Project\TUIO11_NET-master\TUIO11_NET-master\bin\Debug\TuioDemo.exe.config
+D:\MSA\Fall 2024\HCI\Project\TUIO11_NET-master\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+D:\MSA\Fall 2024\HCI\Project\TUIO11_NET-master\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+D:\MSA\Fall 2024\HCI\Project\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+D:\MSA\Fall 2024\HCI\Project\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+D:\MSA\Fall 2024\HCI\Project\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+D:\MSA\Fall 2024\HCI\Project\TUIO11_NET-master\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
+D:\MSA\Fall 2024\HCI\Project\Markers\TUIO11_NET-master\bin\Debug\TuioDemo.exe.config
+D:\MSA\Fall 2024\HCI\Project\Markers\TUIO11_NET-master\bin\Debug\TuioDemo.exe
+D:\MSA\Fall 2024\HCI\Project\Markers\TUIO11_NET-master\bin\Debug\TuioDemo.pdb
+D:\MSA\Fall 2024\HCI\Project\Markers\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.AssemblyReference.cache
+D:\MSA\Fall 2024\HCI\Project\Markers\TUIO11_NET-master\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+D:\MSA\Fall 2024\HCI\Project\Markers\TUIO11_NET-master\obj\Debug\TuioDemo.exe
+D:\MSA\Fall 2024\HCI\Project\Markers\TUIO11_NET-master\obj\Debug\TuioDemo.pdb
