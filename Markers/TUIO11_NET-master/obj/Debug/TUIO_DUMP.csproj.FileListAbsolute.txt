@@ -1,5 +1,0 @@
-C:\Users\youss_kk115ax\Desktop\Markers\TUIO11_NET-master\bin\Debug\TuioDump.exe
-C:\Users\youss_kk115ax\Desktop\Markers\TUIO11_NET-master\bin\Debug\TuioDump.pdb
-C:\Users\youss_kk115ax\Desktop\Markers\TUIO11_NET-master\obj\Debug\TUIO_DUMP.csproj.CoreCompileInputs.cache
-C:\Users\youss_kk115ax\Desktop\Markers\TUIO11_NET-master\obj\Debug\TuioDump.exe
-C:\Users\youss_kk115ax\Desktop\Markers\TUIO11_NET-master\obj\Debug\TuioDump.pdb
